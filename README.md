@@ -2,42 +2,40 @@
 
 **Software Engineer focused on AI infrastructure, code intelligence, retrieval systems, and backend platforms.**
 
-I build systems that connect LLMs to real codebases, data pipelines, and production workflows — with an emphasis on useful developer tooling, clean backend architecture, and measurable engineering impact.
+I build practical AI/backend systems that connect LLMs to real codebases, data pipelines, and production workflows. My strongest interests are developer tools, RAG systems, agent workflows, and scalable backend architecture.
 
-- 🎓 B.S. Computer Science, Alma College — expected Dec 2025
-- 🧠 Interests: AI/ML infrastructure, RAG, agents, code analysis, backend systems
-- 🛠️ Core stack: Python, TypeScript, FastAPI, React, PostgreSQL, Redis, Docker
-- 🔎 Currently sharpening: system design, production AI apps, open-source developer tools
-- 📫 Reach me: [oabouyahia@gmail.com](mailto:oabouyahia@gmail.com)
+- Core stack: Python, TypeScript, FastAPI, React, PostgreSQL, Redis, Docker
+- Focus areas: AI infrastructure, code analysis, RAG, agents, backend systems
+- Currently improving: system design, production AI apps, open-source developer tooling
+- Contact: [oabouyahia@gmail.com](mailto:oabouyahia@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/oussama-abouyahia/) · [LeetCode](https://leetcode.com/u/ousamazing/) · [Code Intel Demo](https://codebase-intelligence.vercel.app)
 
 ---
 
-## Featured Work
+## Selected Work
 
 ### [Code Intel](https://github.com/Oussamcsc/codebase-intelligence)
-**AI-powered codebase analysis platform** using static analysis, AST parsing, graph traversal, RAG, and LLM agents.
+**AI-powered codebase analysis platform for understanding and reviewing repositories.**
 
-- Built repository scanning through the GitHub API with file/line-level analysis.
+Code Intel combines static analysis, AST parsing, graph traversal, vector retrieval, and LLM reasoning to scan repositories and surface code quality, architecture, security, and performance insights.
+
+- Built GitHub repository scanning with file/line-level analysis.
 - Implemented circular dependency detection using directed graph traversal.
-- Combined vector embeddings with static analysis for context-aware code insights.
-- Deployed a full-stack app with FastAPI, React, ChromaDB, PostgreSQL, Docker, and OpenAI.
+- Combined static analysis with vector embeddings for context-aware code insights.
+- Designed multi-agent review workflows for security, performance, and architecture checks.
+- Deployed full-stack app with FastAPI, React, ChromaDB, PostgreSQL, Docker, and OpenAI.
 
-**Demo:** https://codebase-intelligence.vercel.app
+**Live demo:** https://codebase-intelligence.vercel.app
 
 ### [ListflowAI MVP UI](https://github.com/Oussamcsc/ListflowAi-mvp-UI)
-**Email automation and lead workflow platform** for campaign orchestration, lead scoring, and AI-assisted personalization.
+**Frontend MVP for an AI-assisted email automation and lead workflow platform.**
 
-- Designed workflows for lead ingestion, scoring, personalization, inbox rotation, and campaign management.
-- Built frontend MVP with TypeScript/React.
-- Project is being prepared for stronger public documentation and demo assets.
+ListflowAI is designed around lead ingestion, scoring, personalization, inbox rotation, and campaign orchestration. The public repo currently shows the UI layer; documentation and demo assets are being cleaned up.
 
-### Semantic RAG / Similarity Graph Research
-Research-oriented work exploring semantic similarity graph traversal for retrieval-augmented generation systems.
-
-- Focus: improving retrieval quality beyond plain vector search.
-- Areas: graph traversal, semantic similarity, evaluation, visualization, and RAG experimentation.
+- Built TypeScript/React MVP interface for campaign and workflow management.
+- Designed product flow around lead scoring, personalization, and campaign operations.
+- Planned backend integrations include n8n workflows, OpenAI-assisted personalization, PostgreSQL, and REST APIs.
 
 ---
 
@@ -47,18 +45,18 @@ Research-oriented work exploring semantic similarity graph traversal for retriev
 RAG pipelines, semantic search, vector databases, LangChain, OpenAI API, agent workflows, evaluation loops
 
 **Backend Engineering**  
-FastAPI, Node.js, REST APIs, WebSockets, PostgreSQL, Redis, system architecture, caching, async workflows
+FastAPI, Node.js, REST APIs, WebSockets, PostgreSQL, Redis, caching, system architecture
 
 **Frontend / Product**  
-React, TypeScript, Next.js, UI for developer tools and AI workflows
+React, TypeScript, Next.js, interfaces for developer tools and AI workflows
 
 **Infra / Tools**  
-Docker, Git, Railway, Vercel, Supabase, AWS basics, CI/CD fundamentals
+Docker, Git, Vercel, Railway, Supabase, AWS fundamentals, CI/CD fundamentals
 
 ---
 
 ## What I’m Looking For
 
-I’m open to software engineering roles where I can work on backend systems, AI/ML infrastructure, developer tools, retrieval systems, or agent platforms.
+I’m open to software engineering roles involving backend systems, AI/ML infrastructure, developer tools, retrieval systems, or agent platforms.
 
 I’m especially interested in teams building practical AI systems where correctness, latency, reliability, and user workflow matter.
